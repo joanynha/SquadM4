@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Bebas Neue';
+}
+
+body {
+    background: url(/assets/backg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.nav {
+    justify-content: center;
+}
+
+.nav ul {
+    list-style: none;
+    display: flex;
+    padding: 30px;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+    padding-left: 30px;
+}
+
+.nav ul li a:hover {
+    color: #C80F2E;
+    transition: 1s;
+}
+
+.team {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.team-content {
+    width: 90%;
+    max-width: 1350px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+    align-items: center;
+    gap: 2rem;
+    text-align: center;
+    margin-top: 4rem;
+}
+
+.team-content img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+.center h1 {
+    color: #fff;
+    font-size: 4rem;
+    text-align: center;
+    letter-spacing: 5px;
+    user-select: none;
+}
+
+.box {
+    padding: 16px;
+    background: #252529 ;
+    border-radius: 15px;
+    transition: all .38s ease;
+}
+
+.box h3 {
+    font-size: 23px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 8px;
+    letter-spacing: 3px;
+}
+
+.box h5 {
+    font-size: 15px;
+    font-weight: 600px;
+    color: #b7b4bb;
+    margin-bottom: 15px;
+    letter-spacing: 2px;
+}
+
+.icones i {
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    margin: 0 8px;
+    transition: all .38s ease;
+}
+
+.icones i:hover {
+    transform: scale(1.5);
+    color: #C80F2E;
+}
+
+.box:hover {
+    transform: translateY(-10px);
+    cursor: pointer;
+}
+
+@media (max-width: 1240px) {
+    .team{
+        width: 100%;
+        height: auto;
+        padding: 90px 2%;
+    }
+    .center h1 {
+        font-size: 3.2rem;
+    }
+}
