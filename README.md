@@ -17,18 +17,33 @@ Com base neste banco, elaboramos cinco perguntas que foram respondidas através 
 
 ## Perguntas
 
-- Quais são as dez maiores arenas por capacidade?
+- **Quais são as dez maiores arenas por capacidade?**
 
 ![dezmaiores](https://user-images.githubusercontent.com/109765899/216722514-6090f71b-a101-4dc7-b0af-1f9410ce4328.jpg)
 
+&nbsp;
 
-- Quais são as dez menores arenas por capacidade?
+- **Quais são as dez menores arenas por capacidade?**
 
 ![dezmenores](https://user-images.githubusercontent.com/109765899/216791684-f6dce6fc-2d14-4caa-b7a5-dfc8c464a7da.jpg)
 
+&nbsp;
 
-- Quais são os cinco times mais novos?
+- **Quais são os cinco times mais novos?**
 
-- Quais são os cinco times mais antigos?
+![cincomaisnovos](https://user-images.githubusercontent.com/109765899/216846414-8bf3fdf6-0936-4b97-85cd-1ae787c49ae6.jpg)
 
-- Qual time marcou mais pontos em casa?
+&nbsp;
+
+- **Quais são os cinco times mais antigos?**
+
+![cincomaisantigos](https://user-images.githubusercontent.com/109765899/216846429-3af07c5a-1652-4ee2-90ae-cb24c1258061.jpg)
+
+&nbsp;
+
+- **Qual time marcou mais pontos em casa?**
+
+![cincopontos](https://user-images.githubusercontent.com/109765899/216846388-a6cbb360-6902-4b63-b55e-6e4d8de1d801.jpg)
+
+
+
