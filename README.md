@@ -24,6 +24,9 @@ Com base neste banco, elaboramos cinco perguntas que foram respondidas através 
 
 - Quais são as dez menores arenas por capacidade?
 
+![dezmenores](https://user-images.githubusercontent.com/109765899/216791684-f6dce6fc-2d14-4caa-b7a5-dfc8c464a7da.jpg)
+
+
 - Quais são os cinco times mais novos?
 
 - Quais são os cinco times mais antigos?
