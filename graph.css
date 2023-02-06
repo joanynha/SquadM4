@@ -1,0 +1,22 @@
+.inLigne{
+    height: 430px;
+    margin-bottom: 190px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.bigbox2{
+    height: 590px;
+}
+
+.bigbox3{
+    height: 450px;
+}
+
+
+
+.fable{
+    color: #ddb504;
+    
+}
